@@ -30,9 +30,9 @@ Experimental dataset can be downloaded at: https://zenodo.org/record/8408937
 The code is structured as follows:
 - `data.py` contains functions to transform and feed the data to the model.
 - `models.py` defines deep neural network architectures.
-- `utils.py` has utilities plottings.
+- `utils.py` has utilities for evaluation and plottings.
 - `train.py` is the main entry to run the training process.
-- `eval.py` runs the evaluation.
+- `eval.ipynb` runs the evaluation.
 
 ## Citation
 
